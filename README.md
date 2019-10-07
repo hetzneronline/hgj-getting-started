@@ -3,15 +3,6 @@ Hetzner Game Jam Starter Kit
 
 This kit will help you get started.  We want all contributions to be free as in freedom and so you do not need to worry about licensing too much, you can make use of this repo.  We provide information for physical contributions as well as for software contributions.
 
-Physical Contributions
-----------------------
-
-If you want to make an actual board game or some other form of physical game, we recommend to use the CC-BY-SA 4.0 International license.  To use this license, simply add the following sentence to every drawing/board game etc.:
-
-`This work is licensed under CC-BY-SA 4.0 International.`
-
-Optionally you can also add a link to the license: [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
-
 Software Contributions
 ----------------------
 
@@ -38,6 +29,16 @@ SPDX-FileCopyrightText: Copyright information recorded in version control histor
 
 SPDX-License-Identifier: AGPL-3.0-or-later
 ```
+
+Physical Contributions
+----------------------
+
+If you want to make an actual board game or some other form of physical game, we recommend to use the CC-BY-SA 4.0 International license.  To use this license, simply add the following sentence to every drawing/board game etc.:
+
+`This work is licensed under CC-BY-SA 4.0 International.`
+
+Optionally you can also add a link to the license: [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+
 
 Legal Notices
 -------------
