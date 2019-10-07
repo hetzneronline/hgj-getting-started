@@ -1,5 +1,5 @@
-Local Game Jam Starter Kit
-==========================
+Hetzner Game Jam Starter Kit
+============================
 
 This kit will help you get started.  We want all contributions to be free as in freedom and so you do not need to worry about licensing too much, you can make use of this repo.  We provide information for physical contributions as well as for software contributions.
 
