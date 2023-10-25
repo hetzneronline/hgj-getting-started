@@ -3,6 +3,8 @@ Hetzner Game Jam Starter Kit
 
 This kit will help you get started.  We want all contributions to be free as in freedom and so you do not need to worry about licensing too much, you can make use of this repo.  We provide information for physical contributions as well as for software contributions.
 
+Please don't forget to also add your game to the list at the [Hetzner Game Jam repo](https://github.com/hetzneronline/game-jam).
+
 Software Contributions
 ----------------------
 
